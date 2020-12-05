@@ -1,5 +1,5 @@
 # BackEnd GitHub
-## https://github.com/NguyenTanThang/Node-JS-Student-Management-System-Backend
+## https://github.com/pranavkhapra/backend
 
 # Student Demo Account
 ## Email: student@student.com
